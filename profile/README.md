@@ -12,6 +12,8 @@ by supporting a broader scope than conventional institutions.
 
 従来の機関より広い範囲をサポートすることにより、オープンソースの学習者優先の分散型かつプラットフォーム非依存の国際的なコース修了認証を構築します。
 
+# RoadMap
+[Roadmap](https://github.com/orgs/MicroEdgeCerts/projects/1/views/3) defines current active tasks.
 
 <!--
 
