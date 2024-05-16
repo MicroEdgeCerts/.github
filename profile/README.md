@@ -15,6 +15,13 @@ by supporting a broader scope than conventional institutions.
 # RoadMap
 [Roadmap](https://github.com/orgs/MicroEdgeCerts/projects/1/views/3) defines current active tasks.
 
+# Milestone
+[Current milestone](https://github.com/MicroEdgeCerts/.github/milestone/1)
+
+Project Description
+Japanese
+English
+
 <!--
 
 **Here are some ideas to get you started:**
